@@ -4,7 +4,7 @@ Pie Menu Plus addon for blender.
 
 blender is very keyboard heavy to use, and while this works, for many it can be a bit daunting and cumbersome.
 
-Keeping in mind new users and touch devices I suggest using an existing blender Tool ie. the Pie Menu to enable a user access functions related to the current context.
+Keeping in mind new users and touch devices and biult using an existing blender Tool ie. the Pie Menu + addon enables a user access functions related to the current context.
 
 The Menu would be launched with Right Click on the Desktop or Pen Click on Tablets.
 
