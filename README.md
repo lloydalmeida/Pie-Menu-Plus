@@ -1,14 +1,14 @@
 # Pie-Menu +
 
-Pie Menu Plus addon for blender.
+Multi-level Pie Menu Plus addon for blender.
 
 blender is very keyboard heavy to use, and while this works, for many it can be a bit daunting and cumbersome.
 
-Keeping in mind new users and touch devices and built using an existing blender Tool ie. the Pie Menu, the addon enables a user access functions related to the current context.
+The addon is developed keeping in mind new users and especially targetting the upcoming touch devices. Simplicity is key, so the addon is built using an existing blender Tool ie. the Pie Menu, the addon enables a user access functions related to the current context.
 
 The Menu is launched with Right Click on the Desktop or Pen Click on Tablets. This can be configured in the addon preferences.
 
-Done right this would completely eliminate the use of the Menus.
+Done right this would completely eliminate the use of the blender Menus.
 
 Feedback regarding this approach would be much appreciated and of course the code is here to hack.
 
