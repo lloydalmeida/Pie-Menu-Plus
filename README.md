@@ -6,11 +6,11 @@ blender is very keyboard heavy to use, and while this works, for many it can be 
 
 Keeping in mind new users and touch devices and built using an existing blender Tool ie. the Pie Menu, the addon enables a user access functions related to the current context.
 
-The Menu would be launched with Right Click on the Desktop or Pen Click on Tablets. This can be configured in the add preferences.
+The Menu is launched with Right Click on the Desktop or Pen Click on Tablets. This can be configured in the addon preferences.
 
 Done right this would completely eliminate the use of the Menus.
 
-Feedback regarding this approach would be much appreciated and the code is here to hack.
+Feedback regarding this approach would be much appreciated and of course the code is here to hack.
 
 <img width="562" height="453" alt="Screenshot From 2026-11-26 15-08-15" src="https://github.com/user-attachments/assets/5f7dcc77-c952-4d05-8d5e-41daf1fd1793" />
 
