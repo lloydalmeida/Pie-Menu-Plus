@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "multilevel_pie"
+version = "0.1.6"
+name = "Pie Menu +"
+tagline = "Nested pie menus for tablet friendly, keyboard free workflows"
+maintainer = "Lloyd"
+type = "add-on"
+
+tags = ["User Interface", "3D View"]
+
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/tests/",
+  "/.git/",
+]
